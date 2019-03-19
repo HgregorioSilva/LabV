@@ -1,0 +1,9 @@
+br/gov/sp/fatec/repository/ServidorRepository.class
+br/gov/sp/fatec/model/Servidor.class
+br/gov/sp/fatec/model/Banco.class
+br/gov/sp/fatec/service/ServidorService.class
+br/gov/sp/fatec/service/BancoService.class
+br/gov/sp/fatec/service/ServidorServiceImplements.class
+br/gov/sp/fatec/service/BancoServiceImplements.class
+br/gov/sp/fatec/repository/BancoRepository.class
+br/gov/sp/fatec/SpringDataJpaApplication.class

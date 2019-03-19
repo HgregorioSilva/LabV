@@ -1,0 +1,9 @@
+/home/java/eclipse-workspace/IBD185/src/main/java/br/gov/sp/fatec/SpringDataJpaApplication.java
+/home/java/eclipse-workspace/IBD185/src/main/java/br/gov/sp/fatec/service/ServidorService.java
+/home/java/eclipse-workspace/IBD185/src/main/java/br/gov/sp/fatec/model/Servidor.java
+/home/java/eclipse-workspace/IBD185/src/main/java/br/gov/sp/fatec/service/ServidorServiceImplements.java
+/home/java/eclipse-workspace/IBD185/src/main/java/br/gov/sp/fatec/repository/BancoRepository.java
+/home/java/eclipse-workspace/IBD185/src/main/java/br/gov/sp/fatec/service/BancoServiceImplements.java
+/home/java/eclipse-workspace/IBD185/src/main/java/br/gov/sp/fatec/repository/ServidorRepository.java
+/home/java/eclipse-workspace/IBD185/src/main/java/br/gov/sp/fatec/model/Banco.java
+/home/java/eclipse-workspace/IBD185/src/main/java/br/gov/sp/fatec/service/BancoService.java
